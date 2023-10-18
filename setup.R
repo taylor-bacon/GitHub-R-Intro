@@ -7,4 +7,4 @@ packageLoad <-
       }
   }
 
-packageLoad(c(tidyverse))
+packageLoad(c("tidyverse", "palmerpenguins"))
